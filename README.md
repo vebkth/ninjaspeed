@@ -13,3 +13,5 @@ Silent and fast
  - https://12factor.net/
  - https://samnewman.io/patterns/architectural/bff/
  - https://datatracker.ietf.org/doc/html/rfc2616
+ - https://github.com/microsoft/api-guidelines
+ - [OAuth 2.0 and open connect](https://youtu.be/996OiexHze0)
