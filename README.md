@@ -11,3 +11,5 @@ Silent and fast
  - https://news.ycombinator.com/item?id=12572859
  - https://news.ycombinator.com/item?id=12508655
  - https://12factor.net/
+ - https://samnewman.io/patterns/architectural/bff/
+ - https://datatracker.ietf.org/doc/html/rfc2616
