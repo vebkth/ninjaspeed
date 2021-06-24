@@ -17,3 +17,4 @@ Silent and fast
  - [OAuth 2.0 and open connect](https://youtu.be/996OiexHze0)
  - https://github.com/avirajkhare00/saleor_course_resources
  - https://serversforhackers.com/c/nginx-multi-tenancy
+ - https://github.com/garettB/shopify-flask-example
