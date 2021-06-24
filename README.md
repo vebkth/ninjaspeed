@@ -15,3 +15,5 @@ Silent and fast
  - https://datatracker.ietf.org/doc/html/rfc2616
  - https://github.com/microsoft/api-guidelines
  - [OAuth 2.0 and open connect](https://youtu.be/996OiexHze0)
+ - https://github.com/avirajkhare00/saleor_course_resources
+ - https://serversforhackers.com/c/nginx-multi-tenancy
